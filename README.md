@@ -1,83 +1,125 @@
 <div align="center">
-  <!-- HERO BANNER AESTHETIC -->
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=180&section=header&text=MUHAMMAD%20ADAM&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20ENGINEER%20//%20AI%20ARCHITECT&descAlign=68&descAlignY=62&descSize=16&animation=fadeIn" alt="Header" width="100%" />
+  <!-- INTERFACE HEADER -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="left" width="20%">
+        <img src="https://img.shields.io/badge/SYS-ONLINE-success?style=for-the-badge&logo=probot&logoColor=white&labelColor=111" alt="System Online">
+      </td>
+      <td align="center" width="60%">
+         <h1 style="margin: 0; font-size: 3em; letter-spacing: 0.1em;">MUHAMMAD ADAM</h1>
+         <samp style="font-size: 1.1em; color: #D10000;">FULLE STACK ENGINEER &nbsp; // &nbsp; AI ARCHITECT</samp>
+      </td>
+      <td align="right" width="20%">
+        <img src="https://img.shields.io/badge/LOC-PK-111?style=for-the-badge&labelColor=333" alt="Islamabad">
+      </td>
+    </tr>
+  </table>
 
   <br />
 
-  <!-- STATUS BADGES -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LINK-CONNECTED-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=222" height="28" />
-  </a>
-  <a href="mailto:chaudhrayadam@gmail.com">
-    <img src="https://img.shields.io/badge/MAIL-DECRYPT-D10000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111" height="28" />
-  </a>
-  <a href="https://adamchoudary.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-white?style=for-the-badge&logo=vercel&logoColor=black&labelColor=999" height="28" />
-  </a>
-</div>
+  <!-- MAIN DASHBOARD GRID -->
+  <table width="100%" border="0">
+    <tr>
+      <!-- LEFT COLUMN : IDENTITY & CONTACT -->
+      <td width="35%" valign="top">
+        <h3 align="left"><code>/// IDENTITY_CORE</code></h3>
+        <p align="left">
+          Architecting the future of <b>Autonomous Systems</b>. I specialize in replacing legacy workflows with <b>Agentic AI</b> and high-performance <b>Cloud Native</b> solutions.
+        </p>
+        <br />
+        <h3 align="left"><code>/// TRANSMISSION</code></h3>
+        <p align="left">
+          <a href="https://adam-dev-ai-architect.vercel.app/">
+            <img src="https://img.shields.io/badge/PORTFOLIO-INIT_LINK-white?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white" width="100%" />
+          </a>
+          <br />
+          <a href="mailto:chaudhrayadam@gmail.com">
+            <img src="https://img.shields.io/badge/EMAIL-SEND_PACKET-D10000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222" width="100%" />
+          </a>
+        </p>
+      </td>
 
-<br />
-<br />
+      <!-- RIGHT COLUMN : TECHNICAL ARSENAL -->
+      <td width="65%" valign="top">
+        <h3 align="left"><code>/// TECHNICAL_ARSENAL</code></h3>
+        <table width="100%">
+            <tr>
+              <td width="20%"><b>AGENTIC</b></td>
+              <td>
+                <img src="https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai" />
+                <img src="https://img.shields.io/badge/LiveKit-black?style=flat-square&logo=webrtc" />
+                <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=python" />
+                <img src="https://img.shields.io/badge/VAPI-black?style=flat-square&logo=v" />
+              </td>
+            </tr>
+            <tr>
+              <td width="20%"><b>CORE</b></td>
+              <td>
+                <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" />
+                <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
+                <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
+                <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss" />
+              </td>
+            </tr>
+            <tr>
+              <td width="20%"><b>BACKEND</b></td>
+              <td>
+                <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
+                <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi" />
+                <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=django" />
+                <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" />
+              </td>
+            </tr>
+             <tr>
+              <td width="20%"><b>INFRA</b></td>
+              <td>
+                 <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
+                 <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis" />
+                 <img src="https://img.shields.io/badge/Fly.io-black?style=flat-square&logo=fly.io" />
+              </td>
+            </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
-### `/// SYSTEM_CONTEXT`
+  <!-- PROJECTS SECTION (Full Width) -->
+  <table width="100%">
+    <tr>
+      <td colspan="2">
+        <h3 align="left"><code>/// SELECTED_WORKS</code></h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+           <b>PRJ-01 : OUIIMI Marketplace</b>
+           <br /><br />
+           Production-grade Service Marketplace.
+           <br />
+           <code>Next.js</code> <code>MongoDB</code> <code>Stripe Connect</code>
+           <br /><br />
+           <img src="https://img.shields.io/badge/STATUS-DEPLOYED-000?style=flat-square&labelColor=00aa00" />
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+           <b>PRJ-02 : GoCreation AI</b>
+           <br /><br />
+           Automated Legal Agent Workflow.
+           <br />
+           <code>Python</code> <code>FastAPI</code> <code>LangGraph</code>
+           <br /><br />
+           <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000?style=flat-square&labelColor=0077ff" />
+        </div>
+      </td>
+    </tr>
+  </table>
 
-> **"Architecting the intersection of rigorous Full Stack Engineering and Agentic AI."**
-> 
-> I build production-grade autonomous systems. My work focuses on replacing legacy workflows with intelligent, scalable agents and high-performance React/Python architectures.
-
-<br />
-
----
-
-### `/// TECH_STACK_MATRIX`
-
-| **CORE_DOMAIN** | **TECHNOLOGY_NODES** |
-| :--- | :--- |
-| **`FRONTEND`** | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **`BACKEND`** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **`AGENTIC_AI`** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-000?style=flat-square) `LangGraph` `VAPI` |
-| **`INFRA`** | ![Docker](https://img.shields.io/badge/Docker-222?style=flat-square&logo=docker&logoColor=2496ED) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) `Fly.io` |
-
-<br />
-
----
-
-### `/// DEPLOYMENT_LOGS`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">PRJ-01 : OUIIMI Marketplace</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION-success?style=flat-square" />
-      </div>
-      <br />
-      Fair-revenue service marketplace featuring decentralized bookings, <b>Stripe Connect</b> split-payments, and real-time multi-staff capability.
-      <br /><br />
-      <code>Next.js 14</code> <code>MongoDB</code> <code>Stripe</code>
-    </td>
-    <td width="50%">
-      <h3 align="center">PRJ-02 : GoCreation AI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-blue?style=flat-square" />
-      </div>
-      <br />
-      <b>Agentic Legal Workflow</b> automating company formation in Morocco. Generates compliant PDF contracts via AI agents in < 5 mins.
-      <br /><br />
-      <code>Python</code> <code>FastAPI</code> <code>LangGraph</code>
-    </td>
-  </tr>
-</table>
-
-<br />
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamChoudary&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=D10000&icon_color=D10000" alt="stats" />
-</div>
-
-<div align="center">
   <br />
-  <samp>END OF LINE_</samp>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamChoudary&show_icons=true&theme=transparent&hide_border=true&title_color=D10000&text_color=555&icon_color=D10000" height="140" alt="stats" />
+  
+  <br />
+  <code>[ EOF ]</code>
 </div>
