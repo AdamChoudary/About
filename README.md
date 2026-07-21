@@ -21,14 +21,18 @@ Specialist in <b>Agentic AI Architectures</b> &amp; <b>Cloud-Native Systems</b> 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/-CORE%20STACK-1c0000?style=flat-square" /><br><br>
-<div align="center"><img src="https://skillicons.dev/icons?i=nextjs,ts,react,py,nodejs,tailwind,postgres,prisma&theme=dark&perline=4" /></div>
+<p align="center"><img src="https://img.shields.io/badge/-CORE%20STACK-1c0000?style=flat-square" /></p>
+<br>
+<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,ts,react,py,nodejs,tailwind,postgres,prisma,redis,mongodb,docker,linux&theme=dark&perline=4" /></p>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/-AI%20%26%20ARCHITECTURE-1c0000?style=flat-square" /><br><br>
-<img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/LangChain-111?style=for-the-badge&logo=chainlink&logoColor=white" /><br><br>
-<img src="https://img.shields.io/badge/LangGraph-111?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Pinecone-111?style=for-the-badge&logo=pinecone&logoColor=white" /><br><br>
-<img src="https://img.shields.io/badge/Kafka-111?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase&logoColor=white" />
+<p align="center"><img src="https://img.shields.io/badge/-AI%20%26%20ARCHITECTURE-1c0000?style=flat-square" /></p>
+<br>
+<p align="center"><img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/LangChain-111?style=for-the-badge&logo=chainlink&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/LangGraph-111?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Pinecone-111?style=for-the-badge&logo=pinecone&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Kafka-111?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-111?style=for-the-badge&logo=huggingface&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions&logoColor=white" /></p>
 </td>
 </tr>
 </table>
