@@ -39,5 +39,5 @@ Specialist in <b>Agentic AI Architectures</b> &amp; <b>Cloud-Native Systems</b> 
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamChoudary&theme=github-compact&bg_color=0a0a0a&color=666666&line=c9184a&point=ffffff&hide_border=true&area=true&area_color=1c0000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamChoudary&theme=github-compact&bg_color=0a0a0a&color=666866&line=c9184a&point=ffffff&hide_border=true&area=true&area_color=1c0000" width="100%" />
 </div>
